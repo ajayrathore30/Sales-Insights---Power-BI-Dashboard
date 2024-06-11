@@ -1,6 +1,6 @@
 # Sales-Insights-Dashboard
 
-## Dashboard Link: https://app.powerbi.com/groups/me/reports/80d4c29e-9f80-40dd-8710-c58c34e4687d/ReportSection?experience=power-bi&clientSideAuth=0
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/2e712e0a-5556-4b92-a7af-addf591c6cab/ReportSection?experience=power-bi&clientSideAuth=0
 
 ## Project Description -
 
