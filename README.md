@@ -8,8 +8,8 @@ We had different datasets from different regions about revenue and sales data of
 
 ## Requirements - 
 
-- We had to track the revenue numbers and sales quantity number over the year.
-- We had to track the revenue breakdown by regions and by different products
+- We had to track the revenue numbers and sales quantity numbers over the year.
+- We had to track the revenue breakdown by region and by different products
 - We had to track the revenue trends.
 
 ## Steps followed -
